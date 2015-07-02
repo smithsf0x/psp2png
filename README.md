@@ -7,6 +7,6 @@ Thanks to doobz
 1. Copy Your files into the Rejuvenate folder
 2. Open 'uvloader.vds' and add 
 
-```# push resource
+`# push resource`
 
-push test.png /Documents/test.png```
+`push test.png /Documents/test.png`
